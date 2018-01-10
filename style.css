@@ -1,0 +1,63 @@
+.floating-box{
+	margin: auto;
+	background: #FFFFFF;	
+	box-shadow: 2px 2px 2px #888888;	
+	margin-bottom: 15px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.content{
+	padding-left: 5px;	
+	padding-bottom: 5px;
+	padding-right: 5px;
+	display: none;
+}
+
+#contact-info{
+	padding-left: 5px;	
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+
+
+#contact{
+	margin-bottom: 15px;
+	margin-top: 50px;
+}
+
+.profile-pic{
+	object-fit: contain;    
+    max-height: 15em;
+    max-width: 15em;
+    float: right;
+}
+
+.box-title{
+	background-color: #54637a;		
+	border-left: 5px solid #515151;
+	/*padding: 5px;*/
+	color: #ffffff
+}
+
+body{
+	background-color: #ededed;	
+	font-family: 'PT Sans', sans-serif;
+}
+
+#links {
+  list-style-type: none;
+  padding: 0;  
+}
+
+.arrow{
+	float: right;
+	margin-right: 10px;
+	margin-top: 2px;
+}
+
+.company-logo{	
+	margin: auto;
+	max-height: 100%;
+    max-width: 100%;
+}
